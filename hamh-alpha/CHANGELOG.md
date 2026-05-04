@@ -1,8 +1,8 @@
-# v2.1.0-alpha.668
+# v2.1.0-alpha.669
 
 ## Changes
 
-- fix(#340): freeze immediately on off transition, clear on action=off (4c808543)
+- fix(#341): make HA WS message timeout configurable, raise default to 60s (b71cbfd0)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
