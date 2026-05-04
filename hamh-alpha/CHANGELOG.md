@@ -1,8 +1,8 @@
-# v2.1.0-alpha.669
+# v2.1.0-alpha.670
 
 ## Changes
 
-- fix(#341): make HA WS message timeout configurable, raise default to 60s (b71cbfd0)
+- fix(#335): dispatch custom service areas sequentially (75b6a5f2)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
