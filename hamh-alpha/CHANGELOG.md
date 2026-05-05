@@ -1,8 +1,8 @@
-# v2.1.0-alpha.671
+# v2.1.0-alpha.672
 
 ## Changes
 
-- fix(#343): default activePower=0 on energy sensor endpoint (8704cd6c)
+- fix(#328): split cover state/target/current matter reports (30fac325)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
