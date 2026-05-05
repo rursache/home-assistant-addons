@@ -1,8 +1,8 @@
-# v2.1.0-alpha.670
+# v2.1.0-alpha.671
 
 ## Changes
 
-- fix(#335): dispatch custom service areas sequentially (75b6a5f2)
+- fix(#343): default activePower=0 on energy sensor endpoint (8704cd6c)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
