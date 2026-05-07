@@ -1,8 +1,8 @@
-# v2.1.0-alpha.674
+# v2.1.0-alpha.675
 
 ## Changes
 
-- fix(#343): add PowerTopology + cumulativeEnergyImported default (e8601656)
+- fix(#328): dedup deferred cover target writes (6b3a0207)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
