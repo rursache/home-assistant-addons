@@ -1,8 +1,8 @@
-# v2.1.0-alpha.678
+# v2.1.0-alpha.679
 
 ## Changes
 
-- feat(#287): bridge setting for session rotation (2c595adf)
+- fix(#340): keep mode through cool to off+idle (8c2adf3d)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
