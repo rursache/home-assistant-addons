@@ -1,8 +1,8 @@
-# v2.1.0-alpha.680
+# v2.1.0-alpha.681
 
 ## Changes
 
-- fix(#328): drop deferred cover target split (b53ba8a2)
+- fix(#347): heap headroom and force-sync pressure guard (eefa259b)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
